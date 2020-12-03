@@ -5,7 +5,7 @@ This Repository contains the breakdown of a fully functioning ELK Stack that I c
 
 The files in this repository were used to configure the network depicted below.
 
-(Diagrams/Elkstack.png)
+(diagrams/Elkstack.png)
 
 These files have been tested and used to generate a live ELK deployment on Azure. They can be used to recreate the entire deployment pictured above. Alternatively, select portions of the "yaml" file may be used to install only certain pieces of it, such as Filebeat.
 
@@ -78,7 +78,7 @@ The playbook implements the following tasks:
 
 The following screenshot displays the result of running `docker ps` after successfully configuring the ELK instance.
 
-(Diagrams/docker_ps.png)
+(diagrams/docker_ps.png)
 
 ### Target Machines & Beats
 
